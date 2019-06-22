@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "612796116301",
+    "firebase_url": "https://liveshqiptvfalas.firebaseio.com",
+    "project_id": "liveshqiptvfalas",
+    "storage_bucket": "liveshqiptvfalas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612796116301:android:4ba1cc61a514b71f",
+        "android_client_info": {
+          "package_name": "com.gtt.liveshqiptvfalas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612796116301-3teui1qhsdqe5sv8aer91ssh5m2m1d74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtt.liveshqiptvfalas",
+            "certificate_hash": "52277a3c85ebf005dae0931e8990ccddd59bf510"
+          }
+        },
+        {
+          "client_id": "612796116301-k2p3bjh8tmqjnuhibgk7gv50hp1of5i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtt.liveshqiptvfalas",
+            "certificate_hash": "6cee22b5b69c5d6b353ef5659fb88f2dc6326053"
+          }
+        },
+        {
+          "client_id": "612796116301-qphvcm5bll2jgl3c97dh7rk3c9uosurq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXFg5OUcaYSAy5Upd99BxXdAlxbBY3SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612796116301-qphvcm5bll2jgl3c97dh7rk3c9uosurq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612796116301:android:dba93cbb2fdac338",
+        "android_client_info": {
+          "package_name": "com.gtt.supershqiptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612796116301-6aelv4dq4khihbf19fr8gqma0gjfjhu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gtt.supershqiptv",
+            "certificate_hash": "8c1cd1eff4d5e8f875fc461ab49132772bb350bb"
+          }
+        },
+        {
+          "client_id": "612796116301-qphvcm5bll2jgl3c97dh7rk3c9uosurq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXFg5OUcaYSAy5Upd99BxXdAlxbBY3SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612796116301-qphvcm5bll2jgl3c97dh7rk3c9uosurq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

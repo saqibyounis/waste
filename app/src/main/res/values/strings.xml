@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">GTT TV Shqip</string>
+
+    <!--tab name and subtitle-->
+    <string name="tab_recent">Kanalet E Reja</string>
+    <string name="tab_category">Kategorite</string>
+    <string name="tab_favorite">Te Preferuarat</string>
+
+    <!--AdMob Ads-->
+    <string name="admob_publisher_id">pub-6720575921193824</string>
+    <string name="admob_app_id">ca-app-pub-6720575921193824~1281828980</string>
+    <string name="admob_banner_unit_id">ca-app-pub-6720575921193824/4179455069</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-6720575921193824/1662114691</string>
+
+    <!-- youtube -->
+    <string name="youtube_api_key">AIzaSyDoqczzPOaADdAVp_xSBVRAr58O9n0CWXM</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Kanalet E Reja</string>
+    <string name="drawer_category">Kategorite</string>
+    <string name="drawer_favorite">Te Preferuarat</string>
+    <string name="drawer_rate">Rate</string>
+    <string name="drawer_more">Me Shume</string>
+    <string name="drawer_share">Share</string>
+    <string name="drawer_about">Rreth</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- play store application link i.e more apps -->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=GTTGroup</string>
+    <string name="privacy_policy_url">http://shqipiptv.tk/</string>
+
+    <!--app about information-->
+    <string name="about_app_name">Application Name</string>
+    <string name="about_app_version">Build Version</string>
+    <string name="about_app_email">Email</string>
+    <string name="about_app_copyright">Copyright</string>
+    <string name="about_app_rate">Rate</string>
+    <string name="about_app_more">More</string>
+    <string name="about_app_privacy_policy">Privacy Policy</string>
+    <string name="sub_about_app_version">Version 2.4.0</string>
+    <string name="sub_about_app_email">refatllarialeksi@gmail.com</string>
+    <string name="sub_about_app_copyright">Copyright &#169; 2019 GTTGroup \n All rights reserved</string>
+    <string name="sub_about_app_rate">Give your rate and feedback</string>
+    <string name="sub_about_app_more">More apps from developer</string>
+    <string name="sub_about_app_privacy_policy">Privacy Policy of The Stream App</string>
+
+    <!--search-->
+    <string name="search">Kerko</string>
+    <string name="search_hint">Kerko&#8230;</string>
+
+    <!--share-->
+    <string name="share">Share</string>
+    <string name="share_title">Ndiqni Shqip TV</string>
+    <string name="share_content">I Would like to share this with you. Here You Can Download This Application from PlayStore</string>
+
+    <!--network-->
+    <string name="failed_text">Failed to Connect Internet!</string>
+    <string name="no_internet_text">No Internet Connection!</string>
+    <string name="network_required">Required Internet to Streaming the Channel!</string>
+
+    <!--error handling message-->
+    <string name="no_category_found">Oops, Nuk u gjet asnje kategori!</string>
+    <string name="no_post_found">Oops, Nuk u gjet asnje kanal!</string>
+    <string name="msg_search_input">Please Insert Keyword</string>
+    <string name="msg_oops">Whoops!</string>
+    <string name="msg_failed">Failed to load stream, probably the stream server currently down!</string>
+    <string name="option_retry">Retry</string>
+    <string name="option_dismis">Dismiss</string>
+    <string name="option_read_more">Read More</string>
+    <string name="option_ok">OK</string>
+    <string name="option_no">No</string>
+
+    <!--favorite-->
+    <string name="favorite_added">U shtua tek te preferuarat</string>
+    <string name="favorite_removed">U hoq nga te preferuarat</string>
+    <string name="no_favorite_found">Kush eshte e preferuara&#8230; ?</string>
+
+    <!--package validation-->
+    <string name="msg_validate">Unfortunately, your applicationId or package name is not registered.\n\nplease login to your admin panel and register your applicationId or package name in settings menu in the admin panel to continue using app.</string>
+
+    <!--close message-->
+    <string name="press_again_to_exit">Press again to exit app</string>
+
+
+    <string name="rate_dialog_title">Vlereso Dhe Lexo</string>
+    <string name="rate_dialog_message"><h1> LEXONI TE GJITHEN!</h1>
+        <h2> ❗KLIKONI REKLAMAT SA HERE QE TE SHIKONI NJE KANAL❗     NESE JU DEL SIKUR NUK KENI INTERNET JU LUTEM INSTALONI VPN DHE KONTAKTONI NE INSTAGRAM @SHQIP_ITV </h2></string>
+    <string name="rate_dialog_ok">Vlereso Tani</string>
+    <string name="rate_dialog_cancel">Me Kujto Me Vone</string>
+    <string name="rate_dialog_no">Me Vone</string>
+
+    <string name="access_denied">Bllokohet Aksesi</string>
+    <string name="forbidden_message">Ke te instaluara disa aplikacione te ndaluara.Cinstaloji per te vazhduar me tej.Po te kapa tu vjedh do t QR!Per Pyetje Kontakt</string>
+    <string name="cancel">cancel</string>
+    <string name="app_icon">App Icon</string>
+    <string name="app_uninstall">App Uninstall</string>
+
+</resources>
