@@ -18,7 +18,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.gtt.supershqiptv"
-
+        multiDexEnabled true
         manifestPlaceholders = [onesignal_app_id               : "b188bb86-5ad7-47e3-85e2-ca4958983f95",
                                 // Project number pulled from dashboard, local value is ignored.
                                 onesignal_google_project_number: "REMOTE"]

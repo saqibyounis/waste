@@ -12,7 +12,7 @@
     <!--AdMob Ads-->
     <string name="admob_publisher_id">pub-6720575921193824</string>
     <string name="admob_app_id">ca-app-pub-6720575921193824~1281828980</string>
-    <string name="admob_banner_unit_id">ca-app-pub-6720575921193824/4179455069</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
     <string name="admob_interstitial_unit_id">ca-app-pub-6720575921193824/1662114691</string>
 
     <!-- youtube -->
